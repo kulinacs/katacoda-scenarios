@@ -4,7 +4,9 @@
     "description": "Controlling the Filesystem like a Linux Guru",
     "details": {
 	"steps": [
-	    { "title": "Traversal", "text": "step1.md" }
+	    { "title": "Traversal", "text": "step1.md" },
+	    { "title": "cd Tricks", "text": "step2.md" },
+	    { "title": "Reading Files", "text": "step3.md" },	    
 	],
 	"intro": {
 	    "text": "intro.md"
