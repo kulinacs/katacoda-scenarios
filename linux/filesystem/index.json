@@ -4,10 +4,10 @@
     "description": "Controlling the Filesystem like a Linux Guru",
     "details": {
 	"steps": [
-	    { "title": "Traversal", "text": "step1.md" },
+	    { "title": "Traversal", "text": "step1.md" }
 	],
 	"intro": {
-	    "text": "intro.md",
+	    "text": "intro.md"
 	},
 	"finish": {
 	    "text": "finish.md"
@@ -20,7 +20,7 @@
 		"target": "~/"
 	    }
 	]
-    }
+    },
     "environment": {
 	"uilayout": "terminal"
     },
