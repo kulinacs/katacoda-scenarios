@@ -11,15 +11,19 @@
 	},
 	"finish": {
 	    "text": "finish.md"
+	},
+	"assets": {
+	    "host01": [
+		{
+		    "file": "short.txt",
+		    "target": "~/"
+		},
+		{
+		    "file": "long.txt",
+		    "target": "~/"
+		}
+	    ]
 	}
-    },
-    "assets": {
-	"client": [
-	    {
-		"file": "short.txt",
-		"target": "~/"
-	    }
-	]
     },
     "environment": {
 	"uilayout": "terminal"
