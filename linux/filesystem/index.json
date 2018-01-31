@@ -1,0 +1,30 @@
+{
+    "pathwayTitle": "Getting started with the Linux command line",
+    "title": "Interacting with the Filesystem",
+    "description": "Controlling the Filesystem like a Linux Guru",
+    "details": {
+	"steps": [
+	    { "title": "Traversal", "text": "step1.md" },
+	],
+	"intro": {
+	    "text": "intro.md",
+	},
+	"finish": {
+	    "text": "finish.md"
+	}
+    },
+    "assets": {
+	"client": [
+	    {
+		"file": "short.txt",
+		"target": "~/"
+	    }
+	]
+    }
+    "environment": {
+	"uilayout": "terminal"
+    },
+    "backend": {
+	"imageid": "ubuntu"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Getting started with the Linux command line",
+  "icon": "fa-linux",
+  "description": "Get comfortable using the Linux command line for everyday tasks",
+  "courses": [
+    {
+      "course_id": "filesystem",
+      "title": "Interacting with the Filesystem",
+      "description": "Controlling the Filesystem like a Linux Guru"
+    }
+  ]
+}
