@@ -1,0 +1,16 @@
+{
+  "pathwayTitle": "Introduction to Exploitation",
+  "title": "Scanning with nmap",
+  "description": "Identifying targets with nmap",
+  "details": {
+    "steps": [
+      { "title": "Create the test environment", "text": "step1.md" },
+    ],
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "docker"
+  }
+}

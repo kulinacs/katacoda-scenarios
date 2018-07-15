@@ -1,0 +1,12 @@
+{
+  "title": "Introduction to Exploitation",
+  "icon": "fa-laptop",
+  "description": "Learn the basics of exploitation",
+  "courses": [
+    {
+      "course_id": "nmap",
+      "title": "Scanning with nmap",
+      "description": "Identifying targets with nmap"
+    }
+  ]
+}
