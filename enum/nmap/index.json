@@ -4,7 +4,7 @@
   "description": "Identifying targets with nmap",
   "details": {
     "steps": [
-      { "title": "Create the test environment", "text": "step1.md" },
+      { "title": "Create the test environment", "text": "step1.md" }
     ]
   },
   "environment": {
