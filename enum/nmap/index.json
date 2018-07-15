@@ -7,13 +7,13 @@
       "client": [
         {
           "file": "docker-compose.yml",
-          "target": "~/"
+          "target": "/home/scrapbook"
         }
       ],
       "host01": [
         {
           "file": "config.yml",
-          "target": "~/"
+          "target": "/home/scrapbook"
         }
       ]
     },
