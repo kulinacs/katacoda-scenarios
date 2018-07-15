@@ -17,7 +17,7 @@
     "assets": {
       "host01": [
 	{
-	  "file": "long.txt",
+	  "file": "docker-compose.yml",
 	  "target": "~/"
 	}
       ]
