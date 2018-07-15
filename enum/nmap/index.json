@@ -5,7 +5,7 @@
   "details": {
     "steps": [
       { "title": "Create the test environment", "text": "step1.md" },
-    ],
+    ]
   },
   "environment": {
     "uilayout": "terminal"
