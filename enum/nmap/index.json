@@ -11,6 +11,14 @@
         "title": "Target Enumeration",
         "text": "step1.md",
         "code": "step1.sh"
+      },
+      {
+        "title": "Port Enumeration",
+        "text": "step2.md"
+      },
+      {
+        "title": "Non-standard Port Enumeration",
+        "text": "step3.md"
       }
     ],
     "finish": {

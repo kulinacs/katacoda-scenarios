@@ -6,4 +6,6 @@ First, identify what network you are currently on by running `ip a`{{execute}} a
 
 Using your IP address, you can identify probably targets on the network. nmap accepts targets in multiple ways, but we will be using the CIDR notation. For example, if your IP address was `172.19.0.3`, you would replace the last digit with a `0` and append `/24` and run `nmap -sn 172.19.0.0/24`{{execute}}
 
+The `-sn` flag tells nmap to not run a port scan on any host, only enumerate what hosts are live in the range given.
+
 If done correctly, you should see 3 hosts found, yourself and 2 others. In the next step, we will look at enumerating the `fedora` host.

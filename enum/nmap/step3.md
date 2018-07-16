@@ -1,5 +1,5 @@
-It is important to be able to read files. Fortunately, the command line offers convenient was to do this.
+It's possible that services are running on ports not scanned by nmap by default, leaving them undetected. The ports scanned can be adjusted by the `-p` flag. 
 
-To print a file's contents directory you can `cat` it. Run `cat short.txt`{{execute}} to see its contents. Unfortunately, this can be less useful with long files. Run `cat long.txt`{{execute}}
+Scan all ports on the Fedora machine by running `nmap -p- 172.0.0.2`{{execute}}.
 
-Fortunately, the command line also offers utilities to view long files as well. Run `less long.txt`{{execute}} To close `less`, hit `q`
+If done correctly, you should see an additional port, `17291`, now identified.

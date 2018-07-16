@@ -1,9 +1,5 @@
-`cd` will likely be one your most used commands. However, it will become tiresome to type out entire paths to traverse to a directory. Shortcuts have been provided to make this process easier.
+`nmap` can also enumerate the ports on a given host. This is done by default when no flags are specified.
 
-To change to your users home directory, run `cd ~`{{execute}}
+Enumerate the open ports on the Fedora by running `nmap 172.0.0.2`{{execute}}.
 
-To change to one directory above your current directory, run `cd ..`{{execute}}
-
-Finally, to change back to the directory you were in previously, run `cd -`{{execute}}
-
-Return to your home directory to continue the tutorial.
+If done correctly, you should see 2 ports open, `http` and `ssh`
