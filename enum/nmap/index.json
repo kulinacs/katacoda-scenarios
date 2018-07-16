@@ -19,6 +19,18 @@
       {
         "title": "Non-standard Port Enumeration",
         "text": "step3.md"
+      },
+      {
+        "title": "Service Enumeration",
+        "text": "step4.md"
+      },
+      {
+        "title": "Scripted Enumeration",
+        "text": "step5.md"
+      },
+      {
+        "title": "Saving Your Results",
+        "text": "step6.md"
       }
     ],
     "finish": {
