@@ -4,11 +4,14 @@
   "description": "Enumerating targets with nmap",
   "details": {
     "intro": {
-      "courseData": "courseBase.sh",
       "text": "intro.md"
     },
     "steps": [
-      { "title": "Target Enumeration", "text": "step1.md" }
+      {
+        "title": "Target Enumeration",
+        "text": "step1.md",
+        "code": "courseBase.sh",
+      }
     ],
     "finish": {
       "text": "finish.md"
