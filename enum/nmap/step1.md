@@ -1,3 +1,5 @@
+Scenario will be available after containers finish downloading.
+
 If your targets are not currently known (often in the case when working on a new network) nmap can help you find targets on the network. 
 
 First, identify what network you are currently on by running `ip a`{{execute}} and identifying your IP address, in this case it is likely with `172.19.0.3`

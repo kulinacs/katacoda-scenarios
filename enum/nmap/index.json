@@ -10,7 +10,7 @@
       {
         "title": "Target Enumeration",
         "text": "step1.md",
-        "code": "courseBase.sh"
+        "code": "step1.sh"
       }
     ],
     "finish": {
