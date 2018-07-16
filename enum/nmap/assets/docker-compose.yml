@@ -2,14 +2,14 @@
 version: "3"
 services:
   fedora:
-    image: kulinacs/fedora:latest
+    image: kulinacs/fedora-exploitation-intro
     privileged: true
     volumes:
       - /sys/fs/cgroup:/sys/fs/cgroup:ro
     tmpfs:
       - /run
       - /tmp
-  nmap:
-    image: kalilinux/kali-linux-docker:latest
+  kali:
+    image: kulinacs/kali-exploitation-intro
     depends_on:
       - fedora

@@ -1,15 +1,14 @@
 {
-  "pathwayTitle": "Getting started with the Linux command line",
-  "title": "Interacting with the Filesystem",
-  "description": "Controlling the Filesystem like a Linux Guru",
+  "pathwayTitle": "Introduction to Exploitation",
+  "title": "Network scanning with nmap",
+  "description": "Enumerating targets with nmap",
   "details": {
     "steps": [
-      { "title": "Traversal", "text": "step1.md" },
-      { "title": "cd Tricks", "text": "step2.md" },
-      { "title": "Reading Files", "text": "step3.md" }
+      { "title": "Target Enumeration", "text": "step1.md" }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "courseBase.sh"
     },
     "finish": {
       "text": "finish.md"

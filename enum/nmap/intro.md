@@ -1,1 +1,3 @@
-The Linux command line is a powerful and efficient user interface, although it can be a bit daunting. After this tutorial, you should be comfortable traversing the filesystem and reading files.
+nmap is a powerful tool for any penetration tester. It can easily identify network targets, enumerate services running on targets, and every divulge sensitive information about targets in some cases. In this guide, we'll go through the basics of nmap, identify targets, identifying services on those targets, and enumerating additional information about those services.
+
+NOTE: Many people consider running nmap a malicious activity. Only do so on hardware you are authorized to scan.
